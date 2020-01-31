@@ -11,7 +11,7 @@ p.initial{
 }
 h1.containment{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin-left: 100px;
+    margin-left: 300px;
 }
 .bios{
     display: flex;
@@ -27,15 +27,15 @@ h1.containment{
 .container{
     width: 1500px;
     display: block;
-    margin: 100px;
+    margin: auto;
 }
 .list{
-    margin-left: 500px;
+    margin-left: 400px;
     width: 600px;
 }
 .textInContainer{
-    margin-left: auto;
-    width: 900px;
+    margin-left: 400px;
+    width: 650px;
 }
 .extraBold{
     font-weight: bolder;
