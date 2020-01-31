@@ -13,17 +13,16 @@ h1.containment{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin-left: 100px;
 }
-#elisabeth{
-    display: block;
+.bios{
+    display: flex;
+    flex-direction: row;
+}
+.bio{
+    display: flex;
+    flex-direction: column;
     width: 500px;
     height: 40px;
     margin: 10px 10px 400px;
-    float: left;
-}
-#eric{
-    display: block;
-    width: 500px;
-    margin-left: 625px;
 }
 .container{
     width: 1500px;
@@ -35,7 +34,7 @@ h1.containment{
     width: 600px;
 }
 .textInContainer{
-    margin-left: 300px;
+    margin-left: auto;
     width: 900px;
 }
 .extraBold{
