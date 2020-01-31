@@ -1,0 +1,12 @@
+body{
+    font-size: 20px;
+}
+#unique_header{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p.initial{
+    font-style: italic;
+}
+h1.containment{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
